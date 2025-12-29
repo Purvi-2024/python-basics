@@ -1,0 +1,6 @@
+# Program to add two numbers using function
+
+def add(a, b):
+    return a + b
+
+print("Sum:", add(5, 3))
